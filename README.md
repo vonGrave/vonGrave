@@ -71,6 +71,6 @@ This is my Tableau account where I share dashboards from my course work:
 
 ## 📬 Let's Connect  
 I'm always eager to collaborate, learn, and explore new challenges. You can reach me at:  
-- 💼 **[LinkedIn](www.linkedin.com/in/yvonne-petgrave)**  
+- 💼 **[[LinkedIn](https://www.linkedin.com/in/yvonne-petgrave/)]**  
 - 📧 yvonnepetgrave@gmail.com  
  
