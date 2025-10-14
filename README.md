@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Yvonne!  
 
-Welcome to my GitHub portfolio, where I showcase my journey as a **business analyst** and my passion for building **data-driven solutions** that address complex business challenges.  
+Welcome to my GitHub portfolio, where I showcase my journey as a **business/ data analyst** and my passion for building **data-driven solutions** that address complex business challenges.  
 
 ---
 
@@ -27,6 +27,8 @@ Here's a snapshot of the tools and skills I bring to the table:
 ## 🛠️ My Projects  
 
 ### 🌟 Featured Work  
+
+## Python
 
 <details>
 <summary><strong>1. Life Expectancy Prediction </strong> - Analyzing data to build a linear regression model that can predict the life expectancy of the people of a country.</summary>
@@ -61,6 +63,20 @@ Here's a snapshot of the tools and skills I bring to the table:
 </details>   
 
 ---
+
+## Excel 
+
+
+## SQL
+
+<details>
+<summary><strong>1. Trustmark Redlinning Aanalysis </strong> - Investigating discrimination in area of service.</summary>
+<p>
+
+[🌐 View Repository](https://github.com/vonGrave/Trustmark-Redlining-Analysis---SQL)
+</p>
+</details> 
+
 
 ## Tableau  
 This is my Tableau account where I share dashboards from my course work:  
