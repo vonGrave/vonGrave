@@ -1,34 +1,39 @@
-# 👋 Hi there, I'm Yvonne!  
-
-Welcome to my GitHub portfolio, where I showcase my journey as a **business/ data analyst** and my passion for building **data-driven solutions** that address complex business challenges.  
+# Yvonne | Business & Data Analyst | Transforming Data into Strategic Insights 
 
 ---
 
-## 🚀 About Me  
-I specialize in turning data into insights and solutions that drive smarter decisions and innovation. With experience in **data analytics**, **business intelligence**, **machine learning**, and **data visualization**, I help businesses uncover opportunities, optimize operations, and create value.  
+## 🚀 About Me
+I specialize in turning data into **strategic, actionable insights**, driving smarter decisions and innovation. Experienced in leading full-cycle data projects—from initial analysis to production ML models, I can uncover opportunities, optimize operations, and create measurable value.
 
-🔍 **What I believe:**  
-- Data should positively impact **people**, the **planet**, and **profit**.  
-- It's not just about analysis—it's about making things better through data-driven innovation.  
-
-🎸 Fun fact: When I'm not working, you'll find me book thrifting!  
+* **My Data Philosophy:** Data should positively impact **People, Planet, and Profit** through ethical, data-driven innovation.
+* **Fun fact:** When I'm not working, you'll find me book thrifting!
 
 ---
 
-## 📌 What I Do  
-Here's a snapshot of the tools and skills I bring to the table:  
-- **Data Analytics**: Turning raw data into actionable insights.  
-- **Machine Learning**: Developing models in Python that solve real-world problems.  
-- **Business Intelligence**: Designing dashboards and reporting tools using **Power BI**, **Tableau**, and more.  
-- **Data Visualization**: Making insights visually appealing and understandable using charts.
+## 🛠️ Tech Stack & Core Skills
+
+| Area | Tools & Skills |
+| :--- | :--- |
+| **Programming** | **Python** (Pandas, NumPy, Scikit-learn, Statsmodels), **SQL** (PostgreSQL, MySQL, SQL Server) |
+| **Business Intelligence** | **Tableau**, **Power BI**, Dashboard Design, Advanced Reporting |
+| **Machine Learning** | Regression, Classification, Time Series Analysis, Model Evaluation & Deployment |
+| **Data Processing** | Data Cleaning, ETL/ELT Principles, Advanced **Excel** (Lookups, Pivots) |
+| **Domain Experience** | Financial Risk, E-Commerce, Consumer Behavior, Healthcare Analytics |
 
 ---
 
-## 🛠️ My Projects  
+## 🌟 Featured Projects
 
-### 🌟 Featured Work  
+I focus on projects that solve real-world business problems and drive tangible results.
 
-## Python
+### Python & Machine Learning
+
+1.  **Credit Risk Prediction | Classification Model**
+    * **Goal:** Built a predictive classification model to help a financial institution decide on loan approval for prospective applicants.
+    * **Impact:** The model achieved **92% accuracy** in identifying high-risk applicants, significantly mitigating potential loan defaults.
+    * 🌐 [View Repository](https://github.com/vonGrave/Loan-Approval-Risk-Analysis)) 
+
+
 
 <details>
 <summary><strong>1. Life Expectancy Prediction </strong> - Analyzing data to build a linear regression model that can predict the life expectancy of the people of a country.</summary>
