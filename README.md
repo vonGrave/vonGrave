@@ -6,7 +6,7 @@
 I specialize in turning data into **strategic, actionable insights**, driving smarter decisions and innovation. Experienced in leading full-cycle data projects—from initial analysis to production ML models, I can uncover opportunities, optimize operations, and create measurable value.
 
 * **My Data Philosophy:** Data should positively impact **People, Planet, and Profit** through ethical, data-driven innovation.
-* **Fun fact:** When I'm not working, you'll find me book thrifting!
+* **Fun fact:** When I'm not working, you'll find me book thrifting!3
 
 ---
 
@@ -47,12 +47,32 @@ I focus on projects that solve real-world business problems and drive tangible r
 
 1.  **Trustmark Redlining Analysis | SQL Investigation**
     * **Goal:** Investigated potential discrimination in banking service areas by analyzing geographical and demographic data.
-    * **Impact:** Used **complex SQL queries** to identify patterns and present findings for regulatory compliance and ethical review.
+    * **Impact:** Used simple SQL queries to identify patterns and present findings for regulatory compliance and ethical review.
     * 🌐 [View Repository](https://github.com/vonGrave/Trustmark-Redlining-Analysis---SQL)
 
-2.  **Interactive Dashboards | Tableau Portfolio**
-    * **Goal:** Showcasing **3+ dynamic dashboards** for sales forecasting, customer churn analysis, and market segmentation from coursework.
+### Interactive Dashboards | Visualizations
+
+1.  **Trustmark Redlining Analysis | SQL Investigation**
+    * **Goal:** Showcasing dynamic dashboards for sales forecasting, customer churn analysis, and market segmentation from coursework.
     * **Impact:** Demonstrates proficiency in transforming raw data into intuitive, business-ready visualizations.
+    * 🌐 [View Repository](https://github.com/vonGrave/Trustmark-Redlining-Analysis---SQL)
+      
+2.  **Trustmark Redlining Analysis | SQL Investigation**
+    * **Goal:** Showcasing dynamic dashboards for sales forecasting, customer churn analysis, and market segmentation from coursework.
+    * **Impact:** Demonstrates proficiency in transforming raw data into intuitive, business-ready visualizations.
+    * 🌐 [View Repository](https://github.com/vonGrave/Trustmark-Redlining-Analysis---SQL)
+
+3.  **Trustmark Redlining Analysis | SQL Investigation**
+    * **Goal:** Showcasing dynamic dashboards for sales forecasting, customer churn analysis, and market segmentation from coursework.
+    * **Impact:** Demonstrates proficiency in transforming raw data into intuitive, business-ready visualizations.
+    * 🌐 [View Repository](https://github.com/vonGrave/Trustmark-Redlining-Analysis---SQL)
+
+4.  **Trustmark Redlining Analysis | SQL Investigation**
+    * **Goal:** Showcasing dynamic dashboards for sales forecasting, customer churn analysis, and market segmentation from coursework.
+    * **Impact:** Demonstrates proficiency in transforming raw data into intuitive, business-ready visualizations.
+    * 🌐 [View Repository](https://github.com/vonGrave/Trustmark-Redlining-Analysis---SQL)
+
+
     * 🔗 [View Tableau Public Profile](https://public.tableau.com/app/profile/yvonne.p)
 
 ---
