@@ -57,20 +57,6 @@ I focus on projects that solve real-world business problems and drive tangible r
     * **Impact:** Demonstrates proficiency in transforming raw data into intuitive, business-ready visualizations.
     * 🌐 [View Repository](https://github.com/vonGrave/Trustmark-Redlining-Analysis---SQL)
       
-2.  **Trustmark Redlining Analysis | SQL Investigation**
-    * **Goal:** Showcasing dynamic dashboards for sales forecasting, customer churn analysis, and market segmentation from coursework.
-    * **Impact:** Demonstrates proficiency in transforming raw data into intuitive, business-ready visualizations.
-    * 🌐 [View Repository](https://github.com/vonGrave/Trustmark-Redlining-Analysis---SQL)
-
-3.  **Trustmark Redlining Analysis | SQL Investigation**
-    * **Goal:** Showcasing dynamic dashboards for sales forecasting, customer churn analysis, and market segmentation from coursework.
-    * **Impact:** Demonstrates proficiency in transforming raw data into intuitive, business-ready visualizations.
-    * 🌐 [View Repository](https://github.com/vonGrave/Trustmark-Redlining-Analysis---SQL)
-
-4.  **Trustmark Redlining Analysis | SQL Investigation**
-    * **Goal:** Showcasing dynamic dashboards for sales forecasting, customer churn analysis, and market segmentation from coursework.
-    * **Impact:** Demonstrates proficiency in transforming raw data into intuitive, business-ready visualizations.
-    * 🌐 [View Repository](https://github.com/vonGrave/Trustmark-Redlining-Analysis---SQL)
 
 
     * 🔗 [View Tableau Public Profile](https://public.tableau.com/app/profile/yvonne.p)
